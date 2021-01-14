@@ -1,2 +1,4 @@
-# cfielder
-Required Lab 1 Repo
+# Name
+Connor Fielder
+# OPS435 Code/Section
+OPS435NBB
